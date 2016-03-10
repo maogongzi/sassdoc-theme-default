@@ -1,5 +1,5 @@
 {
-  "name": "sassdoc-theme-default",
+  "name": "sassdoc-theme-default-fixed-assets",
   "description": "SassDoc's default theme",
   "title": "SassDoc Default Theme",
   "author": "SassDoc team",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SassDoc/sassdoc-theme-default.git"
+    "url": "https://github.com/maogongzi/sassdoc-theme-default.git"
   },
   "files": [
     "assets",
